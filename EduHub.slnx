@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EduHub.API/EduHub.API.csproj" Id="34d94fd2-e218-42df-8a58-4180620499da" />
+  <Project Path="EduHub.Application/EduHub.Application.csproj" />
+  <Project Path="EduHub.Infrastructure/EduHub.Infrastructure.csproj" />
+  <Project Path="EduHub.Tests/EduHub.Tests.csproj" />
+  <Project Path="EduHub/EduHub.Domain.csproj" />
+</Solution>
